@@ -4,4 +4,4 @@ NPM     : 2106750206
 
 Kelas   : C
 
-Hobi    : Refreshing
+Hobi    : Bermain
